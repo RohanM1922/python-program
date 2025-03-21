@@ -1,0 +1,5 @@
+One day, a <adjective> <profession> named <name> found a <adjective> <object> in the <place>. Suddenly, a <creature> appeared and said, "To keep the <object>, you must <verb>."
+
+First, <name> had to find a <noun> in the <place>. Then, they had to climb a <adjective> <noun> and retrieve a <object>. Finally, they had to defeat a <adjective> <creature>.
+
+In the end, the <creature> granted <name> a wish. <name> wished for <wish>, and it came true. From then on, <name> lived <adverb> ever after.
