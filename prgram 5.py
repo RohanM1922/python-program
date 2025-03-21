@@ -35,7 +35,7 @@ for i in range(TOTAL_PROBLEMS):
 end_time = time.time()
 total_time = round(end_time- start_time,2)
 print("-----------")
-print("good work,you took", str(total_time),"seconds")
+print("good work,you took", str(total_time),"sec")
 
 
 
